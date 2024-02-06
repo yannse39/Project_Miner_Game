@@ -11,4 +11,4 @@ License
 
 GNU Licence.
 
-Note: Assurez-vous d'avoir les droits d'exécution sur le fichier avant de les utiliser.
+Note: Assurez-vous d'avoir les droits d'exécution sur le fichier avant de l'utiliser.
